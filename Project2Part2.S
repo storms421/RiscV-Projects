@@ -1,7 +1,5 @@
 # Project2Part2.S
-# Noah Storms, Chris Moody, Brandon Bradshaw
-# nstorms@uccs.edu, cmoody@uccs.edu, bbradsh3@uccs.edu
-# CS4200-001
+# Noah Storms
 
 .text
 .globl main
